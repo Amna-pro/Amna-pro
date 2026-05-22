@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adil</h1>
+<h1 align="center">Hi 👋, I'm Amna Mahmood</h1>
 <h3 align="center">AI Engineer | LLM Systems | RAG | NLP | AI Automation</h3>
 
 <p align="center">
